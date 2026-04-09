@@ -1,0 +1,345 @@
+body {
+  background: url("https://i.imgur.com/w5y3T8i.png") no-repeat center center fixed;
+  background-size: cover;
+}
+
+
+/* width */
+::-webkit-scrollbar {
+   width: 12px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+   background: #12120e;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+   background: #b00000;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+   background: #707070;
+
+}
+.col-md-9.col-xs-12 {
+background: #e4c53b !important;
+border: 4px double #000000 !important;
+border-top: none !important;
+border-right: none !important;
+border-bottom :none !important;
+}
+
+div.container.main {
+background: #e4c53b !important;
+border: 4px double #000000 !important;
+border-left: none !important;
+}
+.navbar {
+background: #b00000 !important;
+border: 1px solid #000000 !important;
+border-bottom: none !important;
+border-top: none !important;
+border-right: none !important;
+box-shadow: none !important;
+font-family: 'Lucida Sans Unicode', sans-serif;
+}
+
+.navbar li a {
+color: #12120e !important;
+}
+
+.navbar li a:hover {
+background: #707070 !important;
+}
+
+.breadcrumb {
+background: #b00000 !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+}
+
+.feature {
+background: #b00000 !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+}
+
+.topbar {
+background: #b00000 !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+border-top: none !important;
+border-bottom: 4px solid #000000 !important;
+}
+
+.sidebar {
+background: #e4c53b !important;
+color: #12120e !important;
+border: none !important;
+}
+
+.panel {
+background: none !important;
+border: none !important;
+box-shadow: none !important;
+}
+
+.chat_light {
+background: none !important;
+color: #12120e !important;
+border: none !important;
+text-align: center !important;
+}
+
+.chat_dark {
+background: none !important;
+color: #12120e !important;
+border: none !important;
+text-align: center !important;
+}
+
+h1 {
+text-align: center !important;
+color: #12120e !important;
+font-family: 'Lucida Sans Unicode', sans-serif;
+}
+
+h3 {
+text-align: center !important;
+color: #12120e !important;
+font-family: 'Lucida Sans Unicode', sans-serif;
+}
+
+.top {
+background: #b00000 !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Lucida Sans Unicode', sans-serif;
+}
+
+th {
+background: #b00000 !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Lucida Sans Unicode', sans-serif;
+}
+
+.bottom {
+background: #b00000 !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Lucida Sans Unicode', sans-serif;
+}
+
+.left {
+background: #b00000 !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Lucida Sans Unicode', sans-serif;
+}
+
+td {
+background: #EF9E92 !important;
+color: #12120e !important;
+border: none !important;
+}
+
+.right_cub {
+background: #b00000 !important;
+}
+
+.cave-grid {
+background: #b00000 !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Lucida Sans Unicode', sans-serif;
+}
+
+.beetle-grid {
+background: #b00000 !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+font-family: 'Lucida Sans Unicode', sans-serif;
+}
+
+a:link {
+color: #12120e !important;
+}
+
+a:visited {
+color: #12120e !important;
+}
+
+a:hover {
+color: #707070 !important;
+}
+
+.alert-danger {
+background: #A31621 !important;
+color: #0C0608 !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+}
+
+.alert-success {
+background: #A31621 !important;
+color: #0C0608 !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+}
+
+.attack-won {
+background: #A31621 !important;
+color: #0C0608 !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+}
+
+.attack-lost {
+background: #A31621 !important;
+color: #0C0608 !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+}
+
+input[type="button"] {
+background: none !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="submit"] {
+background: none !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="text"] {
+background: none !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="password"] {
+background: none !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+textarea {
+background: none !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+select {
+background: none !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="button"]:hover {
+background: none !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="submit"]:hover {
+background: none !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="text"]:focus {
+background: none !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="password"]:focus {
+background: none !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+textarea:focus {
+background: none !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+select:focus {
+background: none !important;
+color: #12120e !important;
+border: 1px solid #000000 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+.progress {
+background: #EF9E92 !important;
+border: 1px solid #000000 !important;
+}
+
+.progress div {
+color: #12120e !important;
+}
+
+.progress-bar-warning {
+background: #A31621 !important;
+}
+
+.progress-bar-danger {
+background: #A31621 !important;
+}
+
+.progress-bar-success {
+background: #A31621 !important;
+}
+
+.progress-bar {
+background: #A31621 !important;
+}
